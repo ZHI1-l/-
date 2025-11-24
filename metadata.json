@@ -1,0 +1,5 @@
+{
+  "name": "LexiLaw - 法律英语智库",
+  "description": "专业的中文法律英语词条检索与翻译对比平台，基于 Gemini 2.5 模型构建。",
+  "requestFramePermissions": []
+}
